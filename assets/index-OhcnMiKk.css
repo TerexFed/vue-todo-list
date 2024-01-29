@@ -1,0 +1,1 @@
+.input_elem{display:flex;justify-content:center;margin:20px 400px}.input_elem>input{width:100%;height:30px;box-shadow:5px 5px 5px #000}.todo_item{display:flex;flex-direction:column;margin:20px 170px;padding:10px;outline:2px solid black;box-shadow:5px 5px 5px #000}
